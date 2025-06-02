@@ -1,0 +1,20 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# Core AI dependencies
+langchain
+langgraph
+transformers
+sentence-transformers
+huggingface-hub
+langchain-groq
+langchain-community
+faiss-cpu
+langchain-huggingface
+
+beautifulsoup4
+requests
+streamlit
+nest_asyncio
+tavily-python
+python-dotenv
+torch==2.7.0+cpu --index-url https://download.pytorch.org/whl/cpu

@@ -1,0 +1,28 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env/
+*.env
+
+# Ignore build and system files
+.DS_Store
+Thumbs.db
+
+# Ignore local dev files
+*.log
+*.sqlite3
+
+# Ignore other large files (e.g., datasets, checkpoints)
+*.pt
+*.ckpt
+*.onnx
+*.pdf
+*.csv
+
+# Optional: ignore your .git folder if not needed in the container
+.git/
