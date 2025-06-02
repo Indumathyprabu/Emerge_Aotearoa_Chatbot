@@ -17,7 +17,8 @@ A Streamlit-based chatbot application that answers questions based on **predefin
 ## 📦 Requirements
 
 - Docker installed ([Download Docker](https://www.docker.com/products/docker-desktop))  
-- Git installed  
+- Git installed  [Git](https://git-scm.com/) (for cloning)
+
 
 ---
 
@@ -26,7 +27,7 @@ A Streamlit-based chatbot application that answers questions based on **predefin
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/emerge-chatbot.git
+git clone https://github.com/Indumathyprabu/Emerge_Aotearoa_Chatbot.git
 cd emerge-chatbot
 ```
 
